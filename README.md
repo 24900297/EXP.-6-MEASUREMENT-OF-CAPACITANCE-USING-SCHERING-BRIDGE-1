@@ -38,5 +38,10 @@ The current voltmeter reading is:
   ## Circuit Diagram :
   <img width="461" height="424" alt="image" src="https://github.com/user-attachments/assets/9fb955cb-44e3-4b4d-a389-2f4628c50930" />
 
+  ## OUTPUT :
+
+  <img width="1036" height="713" alt="image" src="https://github.com/user-attachments/assets/e33d2ba3-e56c-43d4-a603-4debc9120e42" />
 
 ## Result: 
+
+Thus the Determine the Capacitance of an unknown Capacitor was successfully measured.
